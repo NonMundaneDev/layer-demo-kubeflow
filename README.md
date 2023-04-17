@@ -1,12 +1,12 @@
-# layer-demo-kubeflow
-Notebook implementation for titanic dataset with Kale -- Layer.co ebook.
+# MiniKF Kubeflow Demo
+Notebook implementation for titanic dataset with Kale.
 
 
 Modified from the original notebook [here](https://github.com/kubeflow-kale/kale/tree/master/examples/titanic-ml-dataset)
 
 ## Usage Steps:
 
-1. Install Kubeflow uisng Minikf on GCP, AWS, or your local computer [here](https://www.kubeflow.org/docs/distributions/minikf/).
+1. Install Kubeflow uisng Minikf on GCP or AWS [here](https://v1-5-branch.kubeflow.org/docs/distributions/minikf/).
 
 2. Create a new notebook server.
 
